@@ -11,6 +11,6 @@
 
 - Needs to be optimized in unity to be imported into vrchat 
 
-- No animation plans atm 
+- Animations for walk, run, crouch etc.
 
 - Just 3d print it I guess 
