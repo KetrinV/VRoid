@@ -16,7 +16,7 @@
 - Just 3d print it I guess 
 
 ## Getting started with VRoid:
-VRoid Studio is an application for making (mostly anime-style) virtual avatars. Avatars are saved as .vmd files that can be used with programs such as VRChat, Unity3D, Blender, MikuMikuDance, and various VMD and VTuber software.
+VRoid Studio is an application for making (mostly anime-style) virtual avatars. Avatars are saved as **.vmd** files that can be used with programs such as VRChat, Unity3D, Blender, MikuMikuDance, and various VMD and VTuber software.
 
 You create an avatar using the built-in body and clothing models, all of which have parametric options and can be retextured by importing texture files and by drawing on the model or texture view in-app. Each model contains a stack of textures that are overlaid to create a composed texture for the model. For example, an underwear texture may be overlaid over a tattoo texture, which is then overlaid over a base skin texture.
 
