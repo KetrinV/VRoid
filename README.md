@@ -3,14 +3,14 @@
 
 **Basic plan:**
 
-Create a 3d character model using the software 
+- Create a 3d character model using the software 
 
-Use VSeeFace to use for vtubing 
+- Use VSeeFace to use for vtubing 
 
-Play Vrchat for 12 hours to get the new user to be able to upload character models 
+- Play Vrchat for 12 hours to get the new user to be able to upload character models 
 
-Needs to be optimized in unity to be imported into vrchat 
+- Needs to be optimized in unity to be imported into vrchat 
 
-No animation plans atm 
+- No animation plans atm 
 
-Just 3d print it I guess 
+- Just 3d print it I guess 
