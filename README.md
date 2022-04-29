@@ -24,5 +24,5 @@ Avatars may be shared, downloaded, and used with VMD apps on the VRoid Hub site.
 
 It is also possible to have an avatar commissioned by an artist.
 
-You can do post-processing on the model in Blender (or Unity if your usage is for VR Chat). I.e. jigglebone/boob physics, or model accessories.!
+You can do post-processing on the model in Blender (or Unity if your usage is for VR Chat).
 
